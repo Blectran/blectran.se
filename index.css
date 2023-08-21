@@ -3,8 +3,11 @@
 :root {
     --red: #D41530;
     --yellow: #FAF589;
+    --dark-yellow: #716c0b;
     --pinkish-red: #FA7083;
-    --light-blue: #57C7FA;
+    --dark-pinkish-red: #6a1543;
+    --light-blue: #57c7fa;
+    --dark-blue: #202d5e;
     --grayish-blue: #458DAD;
     --gray: #161620;
     --darker-gray: #121216;
@@ -17,7 +20,7 @@ body {
 }
 
 .header-container {
-    background-image: linear-gradient(127deg, var(--light-blue) 10%, var(--pinkish-red) 80%, var(--yellow)120%);
+    background-image: linear-gradient(127deg, var(--dark-blue) 10%, var(--dark-pinkish-red) 80%, var(--dark-yellow)120%);
     height: 40vh;
     border-radius: 1vw 1vw 0 0;
 }
