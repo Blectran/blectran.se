@@ -132,3 +132,28 @@ a:hover {
 .main-content p {
     color: #ffffff80;
 }
+
+.lastfm {
+    height: auto;
+    width: 80%;
+    display: flex;
+    color: #fff;
+    margin-top: 10%;  
+    flex-direction: column;
+    padding: 10%;
+}
+
+.lastfm h1 {
+    width: 100%;
+    height: auto;
+    font-size: 70%;
+}
+
+.lastfm a {
+    width: auto;
+}
+
+.lastfm p {
+    width: 100%;
+    font-size: auto;
+}
