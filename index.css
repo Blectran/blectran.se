@@ -157,3 +157,12 @@ a:hover {
     width: 100%;
     font-size: auto;
 }
+
+.webrings {
+    margin-top: 10%;
+    width: 100%;
+}
+
+.webrings p {
+    color: #fff;
+}
