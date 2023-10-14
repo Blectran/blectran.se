@@ -12,6 +12,12 @@ body {
     margin: 0;
 }
 
+.background {
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+}
+
 .main-container {
     padding: 10vh;
     display: flex;
@@ -22,7 +28,7 @@ body {
 }
 
 .box-design {
-    background-color: #001A1B;
+    background-color: #001A1Baa;
     border: 2pt #00AEEF solid;
     border-radius: 4px;
     box-shadow:
